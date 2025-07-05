@@ -6,3 +6,5 @@ MFA Alarm is a desktop alarm program developed using Python Kivy. It is designed
 - Face and eye detection using OpenCV and webcam to verify wakefulness
 - Math quiz challenge after facial verification
 - Looping alarm sound using Pygame until both verifications are passed
+
+Note: This program requires an audio file named "Alarm.mp3" located in the same directory. Make sure to provide your own alarm sound file with that exact filename.
